@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<game>
+<frame    w="1170"  h="756"   size="7" padding="16" row="5">
+<layer  class="ui.LayerBackground"    x="0" y="0" w="0" h="0"  />
+<layer  class="ui.LayerPlayer1"  x="75" y="75" w="334" h="590" />
+<layer  class="ui.LayerPlayer2" x="750" y="75" w="334" h="590" />
+<layer  class="ui.LayerNext" x="465" y="75" w="176" h="115" /> 
+<layer  class="ui.LayerStart" x="465" y="250" w="176" h="115"/>
+<layer  class="ui.LayerPoint" x="465" y="450" w="176" h="115"/>
+</frame>
+<system  xMin="0" xMax="9" yMin="0" yMax="17">
+<rect >
+<point x="4" y="0"></point>
+<point x="3" y="0"></point>
+<point x="5" y="0"></point>
+<point x="6" y="0"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="3" y="0"></point>
+<point x="5" y="0"></point>
+<point x="4" y="1"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="3" y="0"></point>
+<point x="5" y="0"></point>
+<point x="3" y="1"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="5" y="0"></point>
+<point x="3" y="1"></point>
+<point x="4" y="1"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="5" y="0"></point>
+<point x="4" y="1"></point>
+<point x="5" y="1"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="3" y="0"></point>
+<point x="5" y="0"></point>
+<point x="5" y="1"></point>
+</rect>
+<rect >
+<point x="4" y="0"></point>
+<point x="3" y="0"></point>
+<point x="4" y="1"></point>
+<point x="5" y="1"></point>
+</rect>
+</system>
+</game>
+
